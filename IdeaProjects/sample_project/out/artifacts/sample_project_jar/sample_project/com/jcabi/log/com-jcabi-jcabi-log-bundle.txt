@@ -1,0 +1,42 @@
+Build Number: b1267af
+Project Version: 0.18.1
+Build Date: 2019-11-07T19:13:24
+
+DomDecor.class: 3451
+VerboseProcess$Monitor.class: 3155
+VerboseCallable$1.class: 1022
+ControlSequenceIndicatorFormatted.class: 691
+ColorfullyFormatted.class: 966
+DullyFormatted.class: 747
+TypeDecor.class: 1704
+DecorException.class: 1372
+VerboseThreads.class: 3726
+SupplierLogger.class: 1886
+NanoDecor.class: 2913
+SizeDecor.class: 3260
+Logger$1.class: 1514
+VerboseCallable.class: 4877
+PreFormatter.class: 4448
+TextDecor.class: 2351
+MsDecor.class: 3001
+Formatted.class: 153
+VerboseThreads$Wrap.class: 1172
+ObjectDecor.class: 2232
+ParseableLevelInformation.class: 2054
+ObjectDecor$ObjectContentsFormatAction.class: 2064
+DecorsManager.class: 4573
+ObjectDecor$ArrayFormatAction.class: 1636
+Supplier.class: 227
+VerboseProcess$Result.class: 822
+ConversionPattern.class: 2590
+SecretDecor.class: 2313
+VerboseRunnable.class: 4091
+VerboseThreads$Group.class: 817
+ListDecor.class: 2792
+MulticolorLayout.class: 4941
+VerboseProcess.class: 8285
+ParseableInformation.class: 1840
+ExceptionDecor.class: 2099
+Colors.class: 1923
+VerboseRunnable$1.class: 1255
+Logger.class: 6361

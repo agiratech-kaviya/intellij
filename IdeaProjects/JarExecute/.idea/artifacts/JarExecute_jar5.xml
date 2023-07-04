@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="JarExecute:jar5">
+    <output-path>$PROJECT_DIR$/out/artifacts/JarExecute_jar5</output-path>
+    <root id="archive" name="JarExecute.jar">
+      <element id="module-output" name="JarExecute" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/unijdbc.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/asjava.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
